@@ -1,3 +1,9 @@
+# ECE 57000 Final Project
+
+Original code from https://github.com/yu4u/noise2noise
+
+My addition is in the aes and aes_byte_error section of noise_model.py, along with running it on different datasets.
+
 # Noise2Noise
 
 This is an unofficial and partial Keras implementation of "Noise2Noise: Learning Image Restoration without Clean Data" [1].
